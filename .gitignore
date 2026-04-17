@@ -1,0 +1,15 @@
+# Backend
+ai-proxy-platform/target/
+ai-proxy-platform/.mvn/
+*.class
+*.jar
+*.war
+
+# Frontend
+ai-proxy-frontend/node_modules/
+ai-proxy-frontend/dist/
+ai-proxy-frontend/.env.local
+
+# General
+.DS_Store
+*.log
